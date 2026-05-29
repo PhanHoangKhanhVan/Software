@@ -1,3 +1,8 @@
+package com.uas.websitemonitor.core;
+
+// THÊM DÒNG NÀY VÀO: Chỉ đường cho Subscription tìm thấy NotificationChannel
+import com.uas.websitemonitor.notification.NotificationChannel;
+
 public class Subscription {
     private int subID;
     private User user;
